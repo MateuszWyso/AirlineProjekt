@@ -1,3 +1,27 @@
 {
-    "name":"cos"
+    "destinations":[
+{
+        "id":1,
+        "value":"Cracov",
+        "desc":"Kraków",
+        "code":"KRK"
+},
+{
+    "id":2,
+    "value":"Paris",
+    "desc":"Paryż",
+    "code":"PR"
+
+},
+{
+    "id":3,
+    "value":"NewYork",
+    "desc":"Nowy Jork",
+    "code":"NY"
+
+
+}
+
+
+    ]
 }
